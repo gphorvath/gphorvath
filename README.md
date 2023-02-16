@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Greg.
 
-Professionally I am a Product Manager.
+Professionally I am a Technical Product Manager.
 
 As a hobby I develop video games using Unity/C#.
 
