@@ -10,7 +10,7 @@ As a hobby I develop video games using Unity/C#.
 🎲 Try out my [Dice Game](https://gphorvath.github.io/Dice-Game/) 🎲  
 
 Always looking for creative folks who would like to build a game together!
-* 2D and Concept Artists
+* Concept Artists
 * UI Design
 * Sound/Music
 * Cinematic
