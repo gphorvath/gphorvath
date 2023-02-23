@@ -16,5 +16,3 @@ Always looking for creative folks who would like to build a game together!
 * Cinematic
 * Writers
 * Other Unity Developers
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-horvath/)
