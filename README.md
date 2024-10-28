@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Greg.
 
-Professionally I am deeply involved in the Open Source AI Communtiy and 🦄 things.
+Professionally I am an AI Software Engineer with an interest in Open Source!
 
 As a hobby I develop video games using Unity/C#.
 
